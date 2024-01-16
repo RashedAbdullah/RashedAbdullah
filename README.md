@@ -30,5 +30,5 @@ Here are some of the projects I've worked on:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true)
 
-![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue)
+![align="center"](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue)
 
