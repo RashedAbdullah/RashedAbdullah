@@ -30,3 +30,5 @@ Here are some of the projects I've worked on:
 - Facebook: [Rashed Abdullah](https://www.facebook.com/Rashed4Abdullah)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah)](https://github.com/anuraghazra/github-readme-stats)
