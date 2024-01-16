@@ -18,9 +18,9 @@ Here are some of the projects I've worked on:
    - Live Link: https://logic-build.vercel.app
 
 2. **TodoList (React.js)**
-   - Description: crud operations (Add, Delete, Edit).
-   - GitHub Link: https://github.com/RashedAbdullah/TodoList
-   - GitHub Link: https://todo-list-blue-one-23.vercel.app
+   - Description: crud operations (Add, Delete, Edit, saved data in localStarage, useReducer hook for data transfer between components).
+   - GitHub Link: https://github.com/RashedAbdullah/task-managment
+   - GitHub Link: ![https://todo-list-blue-one-23.vercel.app](https://task-managment-ten.vercel.app/)
 
 
 ## Let's Connect
