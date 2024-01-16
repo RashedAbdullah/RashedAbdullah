@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/GcBhnwx/namlogoforwebsite.jpg" alt="namlogoforwebsite" border="0">
+<img src="https://i.ibb.co/GQFt7zp/Github-Cover.jpg" alt="Github-Cover" border="0">
 
 # Hi there, I'm Abdul Ahad Rashed 👋
 
