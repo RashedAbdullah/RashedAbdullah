@@ -25,10 +25,6 @@ Here are some of the projects I've worked on:
    - GitHub Link: [](https://todo-list-blue-one-23.vercel.app)(#)
 
 
-
-## GitHub Stats
-![Abdul Ahad Rashed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=issues&theme=radical)
-
 ## Let's Connect
 - LinkedIn: [Abdul Ahad Rashed](https://www.linkedin.com/in/rashed4abdullah/)
 - Facebook: [@your_twitter_handle](https://www.facebook.com/Rashed4Abdullah)
