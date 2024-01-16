@@ -35,3 +35,5 @@ Here are some of the projects I've worked on:
 
 ![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=green)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RashedAbdullah)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&count_private=true)
