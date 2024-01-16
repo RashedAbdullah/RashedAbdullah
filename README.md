@@ -16,13 +16,13 @@ Here are some of the projects I've worked on:
 
 1. **TodoList (Vanilla javascript)**
    - Description: crud operations (Add, Delete, Edit).
-   - GitHub Link: (https://github.com/RashedAbdullah/LogicBuild/tree/main/TodoList)(#)
-   - Live Link: (https://logic-build.vercel.app/)(#)
+   - GitHub Link: (https://github.com/RashedAbdullah/LogicBuild/tree/main/TodoList)
+   - Live Link: (https://logic-build.vercel.app/)
 
 2. **TodoList (React.js)**
    - Description: crud operations (Add, Delete, Edit).
-   - GitHub Link: [](https://github.com/RashedAbdullah/TodoList)(#)
-   - GitHub Link: [](https://todo-list-blue-one-23.vercel.app)(#)
+   - GitHub Link: https://github.com/RashedAbdullah/TodoList
+   - GitHub Link: https://todo-list-blue-one-23.vercel.app
 
 
 ## Let's Connect
