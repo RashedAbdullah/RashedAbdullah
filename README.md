@@ -34,6 +34,4 @@ Here are some of the projects I've worked on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah)
 
 ![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=green)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RashedAbdullah)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RashedAbdullah) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true)
