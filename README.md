@@ -14,26 +14,23 @@ I'm a passionate front-end developer with expertise in JavaScript, React.js, and
 ## Projects
 Here are some of the projects I've worked on:
 
-1. **Project Name 1**
-   - Description: Brief description of the project.
-   - Tech Stack: List the technologies used.
-   - GitHub Link: [Link to the repository](#)
+1. **TodoList (Vanilla javascript)**
+   - Description: crud operations (Add, Delete, Edit).
+   - GitHub Link: (https://github.com/RashedAbdullah/LogicBuild/tree/main/TodoList)(#)
+   - Live Link: (https://logic-build.vercel.app/)(#)
 
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - Tech Stack: List the technologies used.
-   - GitHub Link: [Link to the repository](#)
+2. **TodoList (React.js)**
+   - Description: crud operations (Add, Delete, Edit).
+   - GitHub Link: [](https://github.com/RashedAbdullah/TodoList)(#)
+   - GitHub Link: [](https://todo-list-blue-one-23.vercel.app)(#)
 
-<!-- Add more projects as needed -->
+
 
 ## GitHub Stats
 ![Abdul Ahad Rashed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=issues&theme=radical)
 
 ## Let's Connect
-- LinkedIn: [Abdul Ahad Rashed](https://www.linkedin.com/in/abdul-ahad-rashed/)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
-
+- LinkedIn: [Abdul Ahad Rashed](https://www.linkedin.com/in/rashed4abdullah/)
+- Facebook: [@your_twitter_handle](https://www.facebook.com/Rashed4Abdullah)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" /></p>
