@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 ##
 <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" /></span>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align="center")
 
-![align="center"](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue)
+![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue)
 
