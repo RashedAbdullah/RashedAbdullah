@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/cFzBXyT/Github-Cover2.jpg" alt="Github-Cover2" border="0">
+<img src="https://i.ibb.co/Km0Mc6T/LInkedin-cover.jpg" alt="LInkedin-cover" border="0">
 
 ## About Me
 I'm a passionate front-end developer with expertise in JavaScript, React.js, and Next.js. I also have a solid foundation in HTML, CSS, and Bootstrap. I'm enthusiastic about creating dynamic and responsive web applications that deliver a great user experience.
