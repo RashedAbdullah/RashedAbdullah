@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
 2. **TodoList (React.js)**
    - Description: crud operations (Create, Delete, Update, saved data in localStarage, useReducer hook for data transfer between components).
    - GitHub Link: https://github.com/RashedAbdullah/task-managment
-   - GitHub Link: https://task-managment-ten.vercel.app
+   - Live Link: https://task-managment-ten.vercel.app
 
 ## Let's Connect
 - LinkedIn: [Abdul Ahad Rashed](https://www.linkedin.com/in/rashed4abdullah/)
