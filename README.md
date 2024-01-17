@@ -13,12 +13,12 @@ I'm a passionate front-end developer with expertise in JavaScript, React.js, and
 Here are some of the projects I've worked on:
 
 1. **TodoList (Vanilla javascript)**
-   - Description: crud operations (Add, Delete and Edit on double click).
+   - Description: crud operations (Create, Update on double click and Delete).
    - GitHub Link: https://github.com/RashedAbdullah/LogicBuild/tree/main/TodoList
    - Live Link: https://logic-build.vercel.app
 
 2. **TodoList (React.js)**
-   - Description: crud operations (Add, Delete, Edit, saved data in localStarage, useReducer hook for data transfer between components).
+   - Description: crud operations (Create, Delete, Update, saved data in localStarage, useReducer hook for data transfer between components).
    - GitHub Link: https://github.com/RashedAbdullah/task-managment
    - GitHub Link: https://task-managment-ten.vercel.app
 
