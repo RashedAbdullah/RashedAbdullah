@@ -6,7 +6,7 @@ I'm a passionate front-end developer with expertise in JavaScript, React.js, and
 ## Tech Stack
 - **Languages:** JavaScript (ES6+)
 - **Libraries & Frameworks:** React.js, Next.js
-- **Markup & Styling:** HTML, CSS, Bootstrap
+- **Markup & Styling:** HTML, CSS, Tailwind, Bootstrap
 - **Version Control:** Git, GitHub
 
 ## Projects
