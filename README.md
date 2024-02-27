@@ -32,11 +32,14 @@ Here are some of the projects I've worked on:
         <img style="width: 49%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" />
     </span>
     <span style="flex: 1; height: 200px; overflow: hidden;">
-        <img style="width: 49%; height: 110%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align=center" alt="GitHub stats" />
+        <img style="width: 49%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align=center" alt="GitHub stats" />
     </span>
 </div>
 
 
 
-![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views)
+<div style="text-align: center; border-top: 1px solid #000; padding-top: 10px;">
+    ![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views)
+</div>
+
 
