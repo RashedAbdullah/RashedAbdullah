@@ -12,10 +12,13 @@ I'm a passionate front-end developer with expertise in JavaScript, React.js, and
 ## Projects
 Here are some of the projects I've worked on:
 
-1. **TodoList (Vanilla javascript)**
-   - Description: crud operations (Create, Update on double click and Delete).
-   - GitHub Link: https://github.com/RashedAbdullah/LogicBuild/tree/main/TodoList
-   - Live Link: https://logic-build.vercel.app
+1. **Quran Kareem (React.js)**
+   - 🌏 Complete Quran with Bangla translation.
+   - 🔐 Secure Firebase authentication for a personalized touch.
+   - 🚀 Effortless navigation with a user-friendly design
+   - 🌙 Quick search, smooth animations, and cozy light/dark mode
+   - GitHub Link: [https://github.com/RashedAbdullah/LogicBuild/tree/main/TodoList](https://github.com/RashedAbdullah/quran-bangla)
+   - Live Link: [https://logic-build.vercel.app](https://quran-bangla-iota.vercel.app/)
 
 2. **TodoList (React.js)**
    - Description: crud operations (Create, Delete, Update, saved data in localStarage, useReducer hook for data transfer between components).
