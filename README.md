@@ -12,18 +12,16 @@ I'm a passionate front-end developer with expertise in JavaScript, React.js, and
 ## Projects
 Here are some of the projects I've worked on:
 
-1. **Quran Kareem (React.js)**
-   - 🌏 Complete Quran with Bangla translation.
-   - 🔐 Secure Firebase authentication for a personalized touch.
-   - 🚀 Effortless navigation with a user-friendly design
-   - 🌙 Quick search, smooth animations, and cozy light/dark mode
-   - GitHub Link: [qurankareem](https://github.com/RashedAbdullah/quran-bangla)
-   - Live Link: [qurankareem](https://quran-bangla-iota.vercel.app/)
+1. ### Quran Kareem (React.js)
+- 🌏 Complete Quran with Bangla translation.
+- 🔐 Secure Firebase authentication for a personalized touch.
+- 🚀 Effortless navigation with a user-friendly design
+- 🌙 Quick search, smooth animations, and cozy light/dark mode
+- [GitHub](https://github.com/RashedAbdullah/quran-bangla) | [Live Demo](https://quran-bangla-iota.vercel.app/)
 
 2. **TodoList (React.js)**
    - Description: crud operations (Create, Delete, Update, saved data in localStarage, useReducer hook for data transfer between components).
-   - GitHub Link: https://github.com/RashedAbdullah/task-managment
-   - Live Link: https://task-managment-ten.vercel.app
+   [GitHub](https://github.com/RashedAbdullah/task-managment) | [Live Demo](https://task-managment-ten.vercel.app)
 
 ## Let's Connect
 - LinkedIn: [Abdul Ahad Rashed](https://www.linkedin.com/in/rashed4abdullah/)
@@ -31,7 +29,7 @@ Here are some of the projects I've worked on:
 ##
 <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" /></span>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align="center")
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align=center)
 
-![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue)
+![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views)
 
