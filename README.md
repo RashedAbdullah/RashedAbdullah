@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
 - LinkedIn: [Abdul Ahad Rashed](https://www.linkedin.com/in/rashed4abdullah/)
 - Facebook: [Rashed Abdullah](https://www.facebook.com/Rashed4Abdullah)
 ##
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <span style="flex: 1;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" width="400" height="200" />
     </span>
