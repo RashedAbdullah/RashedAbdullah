@@ -19,17 +19,23 @@ Here are some of the projects I've worked on:
 - 🌙 Quick search, smooth animations, and cozy light/dark mode
 - [GitHub](https://github.com/RashedAbdullah/quran-bangla) | [Live Demo](https://quran-bangla-iota.vercel.app/)
 
-2. **TodoList (React.js)**
+2. ### TodoList (React.js)
    - Description: crud operations (Create, Delete, Update, saved data in localStarage, useReducer hook for data transfer between components).
-   [GitHub](https://github.com/RashedAbdullah/task-managment) | [Live Demo](https://task-managment-ten.vercel.app)
+   - [GitHub](https://github.com/RashedAbdullah/task-managment) | [Live Demo](https://task-managment-ten.vercel.app)
 
 ## Let's Connect
 - LinkedIn: [Abdul Ahad Rashed](https://www.linkedin.com/in/rashed4abdullah/)
 - Facebook: [Rashed Abdullah](https://www.facebook.com/Rashed4Abdullah)
 ##
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" /></span>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <span style="flex: 1;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" />
+    </span>
+    <span style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align=center" alt="GitHub stats" />
+    </span>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align=center)
 
 ![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views)
 
