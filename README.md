@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
    - 🚀 Effortless navigation with a user-friendly design
    - 🌙 Quick search, smooth animations, and cozy light/dark mode
    - GitHub Link: [qurankareem](https://github.com/RashedAbdullah/quran-bangla)
-   - Live Link: [https://logic-build.vercel.app](https://quran-bangla-iota.vercel.app/)
+   - Live Link: [qurankareem](https://quran-bangla-iota.vercel.app/)
 
 2. **TodoList (React.js)**
    - Description: crud operations (Create, Delete, Update, saved data in localStarage, useReducer hook for data transfer between components).
