@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 ##
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: flex-start;">
     <span style="flex: 1;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" width="400" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" width="400" height="200" />
     </span>
     <span style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align=center" alt="GitHub stats" width="400" height="200" />
