@@ -35,11 +35,8 @@ Here are some of the projects I've worked on:
         <img style="width: 49%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align=center" alt="GitHub stats" />
     </span>
 </div>
+##
 
-
-
-<div style="margin: auto;">
    ![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views)
-</div>
 
 
