@@ -38,8 +38,8 @@ Here are some of the projects I've worked on:
 
 
 
-<div style="text-align: center; border-top: 1px solid #000; padding-top: 10px;">
-    ![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views)
+<div style="margin: auto;">
+   ![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views)
 </div>
 
 
