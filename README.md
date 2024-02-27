@@ -17,7 +17,7 @@ Here are some of the projects I've worked on:
    - 🔐 Secure Firebase authentication for a personalized touch.
    - 🚀 Effortless navigation with a user-friendly design
    - 🌙 Quick search, smooth animations, and cozy light/dark mode
-   - GitHub Link: [https://github.com/RashedAbdullah/LogicBuild/tree/main/TodoList](https://github.com/RashedAbdullah/quran-bangla)
+   - GitHub Link: [qurankareem](https://github.com/RashedAbdullah/quran-bangla)
    - Live Link: [https://logic-build.vercel.app](https://quran-bangla-iota.vercel.app/)
 
 2. **TodoList (React.js)**
