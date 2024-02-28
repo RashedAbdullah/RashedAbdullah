@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 - Facebook: [Rashed Abdullah](https://www.facebook.com/Rashed4Abdullah)
 ##
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: flex-start;">
-    <span style="flex: 1; height: 190px; overflow: hidden;">
+    <span style="flex: 1; height: 150px; overflow: hidden;">
         <img style="width: 49%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" />
     </span>
     <span style="flex: 1; height: 200px; overflow: hidden;">
