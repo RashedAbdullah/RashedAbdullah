@@ -1,38 +1,34 @@
-<img src="https://i.ibb.co/Km0Mc6T/LInkedin-cover.jpg" alt="LInkedin-cover" border="0">
+# Hi there! 👋 I'm Abdul Ahad Rashed
 
-## About Me
-I'm a passionate front-end developer with expertise in JavaScript, React.js, and Next.js. I also have a solid foundation in HTML, CSS, and Bootstrap. I'm enthusiastic about creating dynamic and responsive web applications that deliver a great user experience.
+Passionate front-end developer with expertise in JavaScript, React.js, and Next.js. I love creating dynamic and responsive web applications that deliver a great user experience.
 
-## Tech Stack
+## 🚀 Tech Stack
+
 - **Languages:** JavaScript (ES6+)
 - **Libraries & Frameworks:** React.js, Next.js
 - **Markup & Styling:** HTML, CSS, Tailwind, Material UI, Framer Motion
 - **Version Control:** Git, GitHub
 
-## Projects
-Here are some of the projects I've worked on:
+## 🛠️ Projects
 
-1. ### Quran Kareem (React.js)
+### 1. Quran Kareem (React.js)
+
 - 🌏 Complete Quran with Bangla translation.
 - 🔐 Secure Firebase authentication for a personalized touch.
-- 🚀 Effortless navigation with a user-friendly design
-- 🌙 Quick search, smooth animations, and cozy light/dark mode
+- 🚀 Effortless navigation with a user-friendly design.
+- 🌙 Quick search, smooth animations, and cozy light/dark mode.
 - [GitHub](https://github.com/RashedAbdullah/quran-bangla) | [Live Demo](https://quran-bangla-iota.vercel.app/)
 
-## Let's Connect
+## 🌐 Let's Connect
+
 - LinkedIn: [Abdul Ahad Rashed](https://www.linkedin.com/in/rashed4abdullah/)
 - Facebook: [Rashed Abdullah](https://www.facebook.com/Rashed4Abdullah)
-##
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center;">
-    <span style="flex: 1; height: 200px; overflow: hidden;">
-        <img style="width: 49%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact" alt="rashedabdullah" />
-    </span>
-    <span style="flex: 1; height: 200px; overflow: hidden;">
-        <img style="width: 49%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align=center" alt="GitHub stats" />
-    </span>
-</div>
-##
 
-   ![](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views)
+## 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align=center)
 
+## 🔥 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views)
