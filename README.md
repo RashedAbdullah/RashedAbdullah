@@ -30,8 +30,11 @@ Let's turn ideas into interactive wonders! ✨
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rashedabdullah&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&count_private=true&align=center)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah&hide_border=true&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&hide_border=true&theme=tokyonight)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RashedAbdullah&theme=tokyonight)  
 
 ## 🔥 Profile Views
 
