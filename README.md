@@ -1,7 +1,5 @@
 <img src="https://i.ibb.co/Km0Mc6T/LInkedin-cover.jpg" alt="LInkedin-cover" border="0">
 
-# Hi there! 👋 I'm Abdul Ahad Rashed
-
 Hey there! I'm Abdul Ahad Rashed, a passionate front-end developer who wields the magic of JavaScript, dances with React.js, and orchestrates symphonies with Next.js. My true love lies in conjuring dynamic and responsive web applications that not only function seamlessly but also enchant users with an unforgettable experience.
 
 Let's turn ideas into interactive wonders! ✨
