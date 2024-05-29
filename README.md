@@ -11,18 +11,9 @@ Let's turn ideas into interactive wonders! ✨
 - **Markup & Styling:** HTML, CSS, Tailwind, Material UI, Framer Motion
 - **Version Control:** Git, GitHub
 
-## 🛠️ Projects
-
-### 1. Quran Kareem (React.js)
-
-- 🌏 Complete Quran with Bangla translation.
-- 🔐 Secure Firebase authentication for a personalized touch.
-- 🚀 Effortless navigation with a user-friendly design.
-- 🌙 Quick search, smooth animations, and cozy light/dark mode.
-- [GitHub](https://github.com/RashedAbdullah/quran-bangla) | [Live Demo](https://quran-bangla-iota.vercel.app/)
 
 ## 🌐 Let's Connect
-
+- Portfolio: [Rashed Abbdullah](https://rashed-abdullah.vercel.app)
 - LinkedIn: [Abdul Ahad Rashed](https://www.linkedin.com/in/rashed4abdullah/)
 - Facebook: [Rashed Abdullah](https://www.facebook.com/Rashed4Abdullah)
 
