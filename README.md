@@ -19,9 +19,9 @@ Let's collaborate to bring your ideas to life and enchant users with interactive
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah&hide_border=true&theme=algolia)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&hide_border=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&hide_border=true&theme=algolia)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RashedAbdullah&theme=tokyonight)  
 
