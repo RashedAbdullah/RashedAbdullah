@@ -25,6 +25,7 @@ Let's collaborate to bring your ideas to life and enchant users with interactive
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RashedAbdullah&theme=tokyonight)  
 
+![GitHub Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashedAbdullah&theme=algolia)  
 ## 🔥 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views)
