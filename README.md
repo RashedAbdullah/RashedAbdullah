@@ -13,7 +13,7 @@ Let's collaborate to bring your ideas to life and enchant users with interactive
 
 
 ## 🌐 Let's Connect
-- Portfolio: [Rashed Abbdullah](https://rashed-abdullah.vercel.app)
+- Portfolio: [Rashed Abbdullah](https://rashedabdullah.com)
 - LinkedIn: [Abdul Ahad Rashed](https://www.linkedin.com/in/rashed4abdullah/)
 - Facebook: [Rashed Abdullah](https://www.facebook.com/Rashed4Abdullah)
 
