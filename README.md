@@ -7,8 +7,8 @@ Let's collaborate to bring your ideas to life and enchant users with interactive
 ## 🚀 Tech Stack
 
 - **Languages:** JavaScript (ES6+)
-- **Libraries & Frameworks:** React.js, Next.js
-- **Markup & Styling:** HTML, CSS, Tailwind, Material UI, Framer Motion
+- **Libraries & Frameworks:** React.js, Next.js, Node.js
+- **Markup & Styling:** HTML, CSS, Tailwind, Material UI, Framer Motion, ShadCN
 - **Version Control:** Git, GitHub
 
 
