@@ -1,8 +1,8 @@
 <img src="https://i.ibb.co/Km0Mc6T/LInkedin-cover.jpg" alt="LInkedin-cover" border="0">
 
 Hi, I'm Abdul Ahad Rashed, a passionate front-end developer.
-I specialize in crafting stunning web experiences using React.js and Next.js. With a focus on innovation and user engagement, I create immersive interfaces and high-performance applications.
-Let's collaborate to bring your ideas to life and enchant users with interactive wonders on the web. ✨
+I specialize in crafting stunning web experiences using Next.js and Node.js. With a focus on innovation and user engagement, I create immersive interfaces and high-performance applications.
+Let's collaborate to bring your ideas to life and enchant users with interactive wonders on the web.
 
 ## Tech Stack
 
