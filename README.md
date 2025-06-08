@@ -53,10 +53,3 @@ Let's **collaborate** and build web wonders that users will love!
   <img src="https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views" />
 </p>
 """
-
-# Save to markdown file
-file_path = "/mnt/data/Abdul_Ahad_Rashed_README.md"
-with open(file_path, "w") as f:
-    f.write(markdown_content)
-
-file_path
