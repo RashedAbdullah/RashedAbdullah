@@ -1,6 +1,6 @@
 ![LinkedIn Cover](https://i.ibb.co/Km0Mc6T/LInkedin-cover.jpg)
 
-# 👋 Hi, I'm **Abdul Ahad Rashed**  
+# 👋 Hi, I'm **Rashed Abdullah**  
 ### ⚡ Front-end Developer | UI Enthusiast | Web Innovator
 
 I specialize in crafting stunning, interactive web experiences with **Next.js**, **React**, and **Node.js**. From pixel-perfect UI to smooth, high-performance applications, I bring ideas to life with a focus on usability, speed, and elegance.
@@ -12,16 +12,16 @@ Let's **collaborate** and build web wonders that users will love!
 ## 🚀 Tech Stack
 
 **Languages & Scripting**  
-`JavaScript (ES6+)`
+`JavaScript (ES6+)` · `Typescript`
 
 **Frameworks & Libraries**  
-`React.js` · `Next.js` · `Node.js`  
+`React.js` · `Next.js` · `Express.js`  
 
 **Styling & UI**  
-`Tailwind CSS` · `Material UI` · `Framer Motion` · `ShadCN`  
+`Tailwind CSS` · `Material UI` · `Motion` · `ShadCN`  
 
 **Tools & Version Control**  
-`Git` · `GitHub`
+`Git` · `GitHub` · `VS Code`
 
 ---
 
