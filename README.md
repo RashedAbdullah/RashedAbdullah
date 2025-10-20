@@ -1,54 +1,39 @@
-![LinkedIn Cover](https://i.ibb.co/Km0Mc6T/LInkedin-cover.jpg)
+``` js
+function createRashedAbdullah() {
+  const info = {
+    name: "Rashed Abdullah",
+    identity: ["Web Developer", "Educator", "Entrepreneur"],
+    origin: "Bangladesh",
+    email: "rashed.abdullah.dev@gmail.com",
+    website: "https://dirasah.org",
+  };
 
-# 👋 Hi, I'm **Rashed Abdullah**  
-### ⚡ Front-end Developer | UI Enthusiast | Web Innovator
+  const stack = {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
+    backend: ["Node.js", "Express", "Prisma", "PostgreSQL"],
+    tools: ["Git", "Figma", "Vercel"],
+    focus: ["Performance", "UX", "AI Integration", "Clean Architecture"],
+  };
 
-I specialize in crafting stunning, interactive web experiences with **Next.js**, **React**, and **Node.js**. From pixel-perfect UI to smooth, high-performance applications, I bring ideas to life with a focus on usability, speed, and elegance.
+  const say = {
+    introduce: () =>
+      `👋 Hi, I'm ${info.name}, a ${info.identity.join(", ")} from ${info.origin}.`,
+    craft: () =>
+      `🛠️ I build digital experiences using ${stack.frontend
+        .slice(0, 3)
+        .join(", ")} and architect systems with ${stack.backend.join(", ")}.`,
+    philosophy: () =>
+      `💡 Philosophy → "Code should feel like poetry — clean, intentional, and human-centered."`,
+    learn: () =>
+      `📚 Currently exploring: ${stack.focus.join(", ")}.`,
+    contact: () =>
+      `📧 ${info.email}\n🌐 ${info.website}`,
+  };
 
-Let's **collaborate** and build web wonders that users will love!
-
----
-
-## 🚀 Tech Stack
-
-**Languages & Scripting**  
-`JavaScript (ES6+)` · `Typescript`
-
-**Frameworks & Libraries**  
-`React.js` · `Next.js` · `Express.js`  
-
-**Styling & UI**  
-`Tailwind CSS` · `Material UI` · `Motion` · `ShadCN`  
-
-**Tools & Version Control**  
-`Git` · `GitHub` · `VS Code`
-
----
-
-## 🌐 Let's Connect
-
-- 🖥️ [Portfolio Website](https://rashedabdullah.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rashed4abdullah/)  
-- 🌍 [Facebook](https://www.facebook.com/Rashed4Abdullah)  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RashedAbdullah&show_icons=true&hide_border=true&theme=algolia" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah&hide_border=true&layout=compact&theme=algolia" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashedAbdullah&theme=tokyonight" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashedAbdullah&theme=algolia" width="48%" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RashedAbdullah&color=blue&label=Profile+Views" />
-</p>
+  return Object.freeze({
+    ...info,
+    stack,
+    say,
+  });
+}
+```
