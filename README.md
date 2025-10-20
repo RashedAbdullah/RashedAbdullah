@@ -1,3 +1,5 @@
+> Faith meets Function and Code with Consciousness.
+
 ``` js
 function createRashedAbdullah() {
   const info = {
