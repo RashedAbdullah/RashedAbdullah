@@ -1,4 +1,4 @@
-> Faith meets Function and Code with Consciousness.
+> _Faith meets Function and Code with Consciousness._
 
 ``` js
 function createRashedAbdullah() {
