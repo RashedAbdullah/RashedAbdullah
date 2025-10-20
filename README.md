@@ -1,4 +1,4 @@
-> _Faith meets Function and Code with Consciousness._
+> _Faith meets Function in Life & Tech._
 
 ``` js
 function createRashedAbdullah() {
