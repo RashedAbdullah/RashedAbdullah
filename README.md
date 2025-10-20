@@ -4,7 +4,7 @@ function createRashedAbdullah() {
     name: "Rashed Abdullah",
     identity: ["Web Developer", "Educator"],
     origin: "Bangladesh",
-    email: "maarashed@gmail.com",
+    email: "maarashed40@gmail.com",
     website: "https://rashedabdullah.com",
   };
 
