@@ -15,10 +15,15 @@ function createRashedAbdullah() {
     focus: ["Performance", "UX", "API Integration", "Clean Architecture"],
   };
 
+ const philosophy = `
+  "I believe great software is not just functional — 
+  It's thoughtful, aesthetic, and built with empathy."
+  `;
+
   return Object.freeze({
     ...info,
     stack,
-    say,
+    philosophy,
   });
 }
 ```
