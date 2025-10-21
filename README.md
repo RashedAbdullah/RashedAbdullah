@@ -31,7 +31,7 @@ function createRashedAbdullah() {
 ```
 
 
-> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+> ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 > ![](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 > ![](https://nirzak-streak-stats.vercel.app/?user=RashedAbdullah&theme=dark&hide_border=true)<br/>
 > ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
