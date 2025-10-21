@@ -11,9 +11,9 @@ function createRashedAbdullah() {
   };
 
   const stack = {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui"],
+    frontend: ["TypeScript", "React.js", "Next.js"],
     backend: ["Node.js", "Express.js", "Prisma", "PostgreSQL", "MongoDB"],
-    tools: ["Git", "Figma", "Vercel"],
+    tools: ["Git", "VS Code", "Figma", "Vercel"],
     focus: ["Performance", "UX", "API Integration", "Clean Architecture"],
   };
 
