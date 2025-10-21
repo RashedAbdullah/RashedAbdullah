@@ -31,7 +31,13 @@ function createRashedAbdullah() {
 ```
 
 
-> ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-> ![](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-> ![](https://nirzak-streak-stats.vercel.app/?user=RashedAbdullah&theme=dark&hide_border=true)<br/>
-> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center" style="border: 2px solid #3A4C50; border-radius: 12px; padding: 20px; background-color: #0d1117; box-shadow: 0 0 10px rgba(58, 76, 80, 0.4);">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=RashedAbdullah&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Rashed Abdullah's GitHub stats" /><br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RashedAbdullah&theme=dark&hide_border=true" alt="Rashed Abdullah's GitHub streak" /><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+</div>
+
