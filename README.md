@@ -1,33 +1,15 @@
 > _Faith meets Function in Life & Tech._
 
 ``` js
-function createRashedAbdullah() {
-  const info = {
-    name: "Rashed Abdullah",
-    identity: ["Web Developer", "Educator"],
-    origin: "Bangladesh",
-    email: "maarashed40@gmail.com",
-    website: "https://rashedabdullah.com",
-  };
-
-  const stack = {
-    frontend: ["TypeScript", "React.js", "Next.js"],
-    backend: ["Node.js", "Express.js", "Prisma", "PostgreSQL", "MongoDB"],
-    tools: ["Git", "VS Code", "Figma", "Vercel"],
-    focus: ["Performance", "UX", "API Integration", "Clean Architecture"],
-  };
-
- const philosophy = `
-  "I believe great software is not just functional — 
-  It's thoughtful, aesthetic, and built with empathy."
-  `;
-
-  return Object.freeze({
-    ...info,
-    stack,
-    philosophy,
-  });
+const rashed = {
+role: "Full Stack Web Developer",
+stack: ["TypeScript", "React", "Next.js", "Node.js", "Prisma", "PostgreSQL"],
+principle: "To create meaningful experiences, and to serve others through technology.",
+reach: {
+site: "rashedabdullah.com",
+email: "maarashed40@gmail.com"
 }
+};
 ```
 
 
