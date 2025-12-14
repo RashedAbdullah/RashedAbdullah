@@ -6,7 +6,7 @@ role: "Full Stack Web Developer",
 stack: ["TypeScript", "React", "Next.js", "Node.js", "Prisma", "PostgreSQL"],
 principle: "To create meaningful experiences, and to serve others through technology.",
 reach: {
-site: "rashedabdullah.com",
+site: "rsite: "https://rashedabdullah.in
 email: "maarashed40@gmail.com"
 }
 };
