@@ -15,11 +15,11 @@ email: "maarashed40@gmail.com"
 
 <div align="center" style="border: 2px solid #3A4C50; border-radius: 12px; padding: 20px; background-color: #0d1117; box-shadow: 0 0 10px rgba(58, 76, 80, 0.4);">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/>
+ ![RashedAbdullah's Stats](https://github-readme-stats.vercel.app/api?username=RashedAbdullah&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)<br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=RashedAbdullah&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Rashed Abdullah's GitHub stats" /><br/>
+  ![RashedAbdullah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RashedAbdullah&theme=highcontrast&hide_border=true)<br/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RashedAbdullah&theme=dark&hide_border=true" alt="Rashed Abdullah's GitHub streak" />
+  ![RashedAbdullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedAbdullah&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 
 
