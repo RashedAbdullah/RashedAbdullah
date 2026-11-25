@@ -1,4 +1,4 @@
-<a href="https://dirasah.org">
+<a href="https://dirasah.rashedabdullah.com">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/card-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg">

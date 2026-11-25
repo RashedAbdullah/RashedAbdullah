@@ -307,11 +307,11 @@ function records(s, x, y, w) {
 function style(theme) {
   const vars = (t) => Object.entries(THEMES[t]).map(([k, v]) => `--${k}:${v}`).join(";") + `;--gold-line:${t === "light" ? "#C98A12" : "#F2B544"}`;
   const font = (w) =>
-    `@font-face{font-family:R;font-weight:${w};src:url(data:font/woff2;base64,${readFileSync(new URL(`fonts/roboto-${w}.woff2`, import.meta.url)).toString("base64")}) format("woff2")}`;
+    `@font-face{font-family:U;font-weight:${w};src:url(data:font/woff2;base64,${readFileSync(new URL(`fonts/ubuntu-${w}.woff2`, import.meta.url)).toString("base64")}) format("woff2")}`;
   return `<style>${font(400)}${font(700)}
 svg{${vars(theme === "auto" ? "light" : theme)}}
 ${theme === "auto" ? `@media (prefers-color-scheme:dark){svg{${vars("dark")}}}` : ""}
-text{font-family:R,Roboto,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:14px;fill:var(--ink)}
+text{font-family:U,Ubuntu,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:14px;fill:var(--ink)}
 .h{font-size:18px;font-weight:700}.b{font-size:15px}.v{font-size:14px;font-weight:700}.m{fill:var(--muted)}.s{font-size:13px;fill:var(--muted)}
 .big{font-size:42px;font-weight:700;letter-spacing:-.5px}
 .name{font-size:44px;font-weight:700;fill:#FBF5EE;letter-spacing:-.5px}.tag{font-size:18px;fill:#F2B544}.on{font-size:15px;fill:#F3DDD6}.onb{font-size:15px;font-weight:700;fill:#FBF5EE}
