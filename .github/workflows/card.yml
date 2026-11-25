@@ -1,0 +1,36 @@
+name: Profile card
+
+on:
+  schedule:
+    - cron: "17 20 * * *" # 2:17 am in Dhaka
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/card.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: card
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Draw the card
+        run: node scripts/build.mjs
+        env:
+          # CARD_TOKEN also counts private repositories; without it, public ones only
+          GH_TOKEN: ${{ secrets.CARD_TOKEN || github.token }}
+      - name: Save it
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet && exit 0
+          git commit -m "Redraw profile card"
+          git pull --rebase
+          git push
